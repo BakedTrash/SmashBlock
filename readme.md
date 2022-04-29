@@ -1,7 +1,7 @@
 This is a modified version of the TeeSmash mod, originally created by  Ryozuki & timakro
 (Still WIP, please use https://github.com/timazuki/TeeSmash instead)
 
-## TeeSmash (https://github.com/timazuki/TeeSmash)
+## TeeSmash
 Created by Ryozuki with the help of timakro.
 
 ## How it Works
