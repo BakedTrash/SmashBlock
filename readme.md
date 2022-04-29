@@ -1,4 +1,7 @@
-## TeeSmash [![CircleCI](https://circleci.com/gh/Ryozuki/TeeSmash.svg?style=svg)](https://circleci.com/gh/Ryozuki/TeeSmash)
+This is a modified version of the TeeSmash mod, originally created by  Ryozuki & timakro
+(Still WIP, please use https://github.com/timazuki/TeeSmash instead)
+
+## TeeSmash (https://github.com/timazuki/TeeSmash)
 Created by Ryozuki with the help of timakro.
 
 ## How it Works
