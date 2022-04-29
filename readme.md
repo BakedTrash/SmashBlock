@@ -1,4 +1,4 @@
-This is a modified version of the TeeSmash mod, originally created by  Ryozuki & timakro__
+This is a modified version of the TeeSmash mod, originally created by  Ryozuki & timakro<br />
 (Still WIP, please use https://github.com/timazuki/TeeSmash instead)
 
 ## TeeSmash
